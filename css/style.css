@@ -1,0 +1,11 @@
+#navbar {
+    position: fixed;
+}
+
+#main-doc {
+    margin-left : 200px;
+}
+@media screen and (max-height: 450px) {
+    #navbar  {margin-top: 15px;}
+    #navbar  a {font-size: 18px;}
+} 
